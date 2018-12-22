@@ -81,6 +81,7 @@ namespace IntroOpgaver
             Console.ReadKey(); //udskriver til konsol 
             Console.ResetColor();
             Console.Clear();
+            Console.Clear();
         }
     }
 }
